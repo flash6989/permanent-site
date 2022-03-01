@@ -500,6 +500,9 @@ h3 {
     flex-direction: column;
     padding-bottom: 20px;
   }
+  .header__bar ul {
+    padding-left: 0;
+  }
 
   .header__body {
     grid-template-areas: "img-1 img-1" " img-2 img-3";

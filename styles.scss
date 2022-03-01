@@ -522,6 +522,9 @@ h3 {
   .header__bar {
     flex-direction: column;
     padding-bottom: 20px;
+    ul {
+      padding-left: 0;
+    }
   }
 
   .header__body {
